@@ -1,0 +1,1 @@
+One function of an operating system is to manage devices that enable the user to perform tasks.  An example of this could be a keyboard connected to a computer that allows the user to type and issue commands.  The operating system must have a device manager that can work with the devices connected to it and allow it to operate with other managers withing the system.
