@@ -1,2 +1,3 @@
 One function of an operating system is to manage devices that enable the user to perform tasks.  An example of this could be a keyboard connected to a computer that allows the user to type and issue commands.  The operating system must have a device manager that can work with the devices connected to it and allow it to operate with other managers within the system.
 An additional aspect of an operating system is a file manager.  A file manager allows you to do any and all functions possible with files on your computer.  This would apply to images and documents as well as many other file types.
+A process manager is also an important aspect of an operating system. An OS must maintain a structure for each process.
